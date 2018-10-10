@@ -2,6 +2,7 @@ package br.gov.sp.fatec.service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -38,6 +39,17 @@ public class DepositoServiceImpl implements DepositoService{
 	public Deposito deletar(Deposito deposito) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	@Override
+	public Optional<Deposito> buscaID(Long id) {
+		
+		if(depositoRepository.findById(id) != null) {
+			Optional<Deposito> dep = depositoRepository.findById(id);
+			return dep;
+		}
+		return null;
+		
 	}
 
 }

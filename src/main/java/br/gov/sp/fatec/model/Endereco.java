@@ -36,5 +36,9 @@ public class Endereco {
 	
 	@Column(name = "END_REPVH", unique = true, length = 20, nullable = false)
 	private int endRepvh;
+	
+	@Column(name = "DEP_ID", unique = true, length = 20, nullable = false)
+	private Long endDepId;
+	
 
 }
