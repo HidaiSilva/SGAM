@@ -1,0 +1,36 @@
+                                          CC
+                                          CC
+                                        CCCCCC
+                                        CCCCCCC  
+                                         CCCC     
+                                         CCCC     
+                                         CCCC     
+                                       CCCCCC     
+      CCCCCCCCC                        CCCCCC  
+   CCCCCCCCCCCCC                      CCCCCC      
+ CCCCCCCCCCCCCCCCC                   CCCCCC       
+ CCCCCCCCCCCCCCCCC                  CCCCCC        
+CCCCCCCCCCCCCCCCCCC                CCCCCC         
+CCCCCCCCCCCCCCCCCCC                CCCCC          
+ CCCCCCCCCCCCCCCCCC             CCCCCCCC          
+  CCCCCCCCCCCCCCCCC          CCCCCCCCCC           
+   CCCCCCCCCCCCCCCCC   CCCCCCCCCCCCCCC            
+    CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC             
+      CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC              
+        CCCCCCCCCCCCCCCCCCCCCCCCCC                
+  CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC   
+      _____     ____    _____             
+     |  __ \   / __ \  |  __ \     /\    
+     | |__) | | |  | | | |  | |   /  \   
+     |  _  /  | |  | | | |  | |  / /\ \  
+     | | \ \  | |__| | | |__| | / ____ \ 
+     |_|  \_\  \____/  |_____/ /_/    \_\    
+    ______ _ _ _                 _               
+   |  ____(_| | |               | |              
+   | |__   _| | |__   __ _    __| | __ _         
+   |  __| | | | '_ \ / _` |  / _` |/ _` |        
+   | |    | | | | | | (_| | | (_| | (_| |  _ _ _ 
+   |_|    |_|_|_| |_|\__,_|  \__,_|\__,_| (_(_(_)
+   
+   Dercy Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
+
