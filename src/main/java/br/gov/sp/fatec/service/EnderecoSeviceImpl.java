@@ -27,8 +27,7 @@ public class EnderecoSeviceImpl implements EnderecoService {
 
 	@Override
 	public List<Endereco> buscarTodos() {
-		// TODO Auto-generated method stub
-		return null;
+		return (List<Endereco>) enderecoRepository.findAll();
 	}
 
 	@Override
